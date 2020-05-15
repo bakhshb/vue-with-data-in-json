@@ -1,0 +1,90 @@
+{
+  "resume": {
+    "about": {
+      "fname": "Baraa",
+      "lname": "Bakhsh",
+      "address": "Makkah, Saudi Arabia",
+      "mobile": "(966) 5555-15991",
+      "email": "bakhshb@gmail.com",
+      "goal": "I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+      "facebook": "https://www.facebook.com/baraa.bakhsh",
+      "twitter": "https://twitter.com/bakhshb",
+      "linkedin": "https://www.linkedin.com/in/baraa-bakhsh-60652b58?trk=pub-pbmap",
+      "github": "https://github.com/bakhshb"
+    },
+    "experience": [
+      {
+        "organization": "Ministry of Haj & Umrah",
+        "position": "Project Manager & Digital Business Transformation Analyst",
+        "desc": "Analyze and evaluate business practices engineering, design, define scope, objectives and formulate processes to parallel overall business strategies.",
+        "date": "September 2017 - Present",
+        "achievment": [
+          "Created and presented the major key performance indicators for the Umrah sector.",
+          "Developed the anuual operating plan for the Umrah sector.",
+          "Conducted a research about the decrease of the number of Mu`tamirs (Umrah performers) during Maharm and Shawal months.",
+          "Lead and designed an e-consumer platform (MAQAM) from the idea to the operation.",
+          "Documented and analyzing the business processes for the Umrah sector.",
+          "Designed the To-Be processes based on the strategic objective of the Ministry.",
+          "Lead the inclusive service centers program."
+        ],
+        "tools": ""
+      },
+      {
+        "company": "Unitec (New Zealand)",
+        "job_title": "Teacher Assistant",
+        "desc": "Taught Level 4 Information Technology course, and helped the student beyond the set classes with the assignments on he how to use HTML, CSS, Database, and productivity applications running on different operating systems such as Linux.",
+        "date": "February 2015 - July 2015",
+        "achievment": [],
+        "tools": ""
+      },
+      {
+        "company": "IBM Delivery Center (New Zealand)",
+        "job_title": "Associate IT Analyst",
+        "desc": "As a member of the Unitec Application Packaging Team I am responsible for the processing of Windows 7 application packages using a Microsoft application packaging framework. As a team we are responsible for meeting package deadlines, ensuring quality and facilitating the resolution of package defects. Daily tasks involve the management, scheduling, redistribution and quality assurance of packaging tasks within the team, regular communications with the client, offshore team (Malaysia) and local project team. Tasks also include the review and refinement of the packaging process as the project evolves.",
+        "date": "November 2013 - November 2014",
+        "achievment": [
+          "Packaging process",
+          "Process refinement",
+          "Quality assurance",
+          "Offshore team interaction and coordination",
+          "Client communications",
+          "Task management, scheduling and distribution",
+          "Microsoft packaging frameworks"
+        ],
+        "tools": "SCCM (System Centre Configuration Manager), Migrate GPO, Lotus Notes Database, Active Directory."
+      }
+    ],
+    "education": [
+      {
+        "name": "Auckland University of Technology (New Zealand)",
+        "certificate": "Master of Computer & Information Science",
+        "date": "February 2015 - February 2017"
+      },
+      {
+        "name": "Unitec (New Zealand)",
+        "certificate": "Bachelor of Computing System",
+        "date": "February 2012- November 2014"
+      },
+      {
+        "name": "Lincoln University (New Zealand)",
+        "certificate": "Certificate of Foundation Studies Part A",
+        "date": "November 2010- February 2011"
+      },
+      {
+        "name": "Makkah Community College (Saudi Arabia)",
+        "certificate": "Associate's degree, Computer Science",
+        "date": "Septamber 2005- May 2008"
+      }
+    ],
+    "skills": {
+      "hard_skills": [
+        "Agile Development Scrum",
+        "Cross Functional Teams",
+        "Service Design",
+        "Design Thinking"
+      ],
+      "soft_skills": ["Teamwork", "Communication", "Leadership"],
+      "language": ["Arabic", "English"]
+    }
+  }
+}
